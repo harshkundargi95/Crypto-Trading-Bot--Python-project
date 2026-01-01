@@ -1,0 +1,40 @@
+2026-01-01 21:47:44,256 - INFO - Bot initialized with testnet=True
+2026-01-01 21:48:29,516 - INFO - Bot initialized with testnet=True
+2026-01-01 21:48:49,682 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-01 22:27:55,606 - INFO - Bot initialized with testnet=True
+2026-01-01 22:28:11,684 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-01 22:34:20,210 - INFO - Bot initialized with testnet=True
+2026-01-01 22:34:36,695 - INFO - Market order placed: {'orderId': 11315937227, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ4473289416b2ed34350e02', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1767287078180}
+2026-01-01 22:36:48,732 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-01 22:36:48,732 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-01 22:36:48,733 - INFO -  * Restarting with stat
+2026-01-01 22:36:49,411 - WARNING -  * Debugger is active!
+2026-01-01 22:36:49,413 - INFO -  * Debugger PIN: 990-561-064
+2026-01-01 22:36:53,477 - INFO -  * Detected change in 'C:\\Users\\harsh\\OneDrive\\Desktop\\Projects\\Python project\\src\\web.py', reloading
+2026-01-01 22:36:53,579 - INFO -  * Restarting with stat
+2026-01-01 22:36:54,313 - WARNING -  * Debugger is active!
+2026-01-01 22:36:54,316 - INFO -  * Debugger PIN: 990-561-064
+2026-01-01 22:37:11,393 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-01 22:37:11,394 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-01 22:37:11,395 - INFO -  * Restarting with stat
+2026-01-01 22:37:12,057 - WARNING -  * Debugger is active!
+2026-01-01 22:37:12,059 - INFO -  * Debugger PIN: 990-561-064
+2026-01-01 22:41:24,121 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-01 22:41:24,122 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-01 22:41:24,123 - INFO -  * Restarting with stat
+2026-01-01 22:41:24,886 - WARNING -  * Debugger is active!
+2026-01-01 22:41:24,889 - INFO -  * Debugger PIN: 990-561-064
+2026-01-01 23:35:38,301 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-01 23:35:38,301 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-01 23:35:38,305 - INFO -  * Restarting with stat
+2026-01-01 23:35:39,379 - WARNING -  * Debugger is active!
+2026-01-01 23:35:39,383 - INFO -  * Debugger PIN: 990-561-064
+2026-01-02 00:02:59,039 - INFO - Bot initialized with testnet=True
+2026-01-02 00:13:56,590 - INFO - Bot initialized with testnet=True
+2026-01-02 00:14:10,763 - INFO - Market order placed: {'orderId': 11317624549, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ90c998b297c481a8472fd7', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1767293051667}
+2026-01-02 00:20:16,947 - INFO - Bot initialized with testnet=True
+2026-01-02 00:20:28,720 - INFO - Market order placed: {'orderId': 11317728844, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ934b1334dbf84cc0bc61f4', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1767293429628}
